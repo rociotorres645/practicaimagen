@@ -1,0 +1,2 @@
+# practicaimagen
+imagen
